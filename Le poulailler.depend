@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1435359482 source:e:\c  plus\le poulailler\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1435353972 source:e:\c  plus\le poulailler\src\cop.cpp
+
+1435353984 source:e:\c  plus\le poulailler\src\oeuf.cpp
+
+1435353990 source:e:\c  plus\le poulailler\src\poule.cpp
+
+1435354159 source:e:\c  plus\le poulailler\src\volaille.cpp
+
